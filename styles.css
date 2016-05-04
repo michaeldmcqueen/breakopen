@@ -1,11 +1,12 @@
 body {
   margin: 0;
   padding: 0;
-  background: url('https://images.unsplash.com/29/hazy-lake.jpg?') no-repeat center center fixed; 
+  background: url('images/bg.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  font-family: "proxima-nova",sans-serif;
 }
 
 .logo {
@@ -26,10 +27,11 @@ header h2, header h4 {
 }
 
 .intro {
-  padding-top: 2em;
-  max-width: 60%;
+  padding-top: 3em;
+  max-width: 40%;
   margin: 0 auto;
   position: relative;
+  font-size: 1.4em;
 }
 
 .date-time {
