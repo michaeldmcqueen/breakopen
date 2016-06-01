@@ -1,9 +1,9 @@
 ---
 layout: interior
 permalink: /about/
-title: About
-subtitle: 'A Quest for self discovery.'
-header_image_path: 
+title: About Us
+subtitle: A Quest for self discovery.
+header_image_path:
 quote: 'When health is absent, wisdom cannot reveal itself, art cannot manifest, strength cannot fight, wealth becomes useless, and intelligence cannot be applied.'
 quote_attribute: Herophilus
 ---
