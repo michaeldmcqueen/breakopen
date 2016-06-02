@@ -8,6 +8,6 @@ artist_image_path: /12715877_648708765270799_7658379294537159973_o.jpg
 ---
 
 
-![](/uploads/versions/12715877_648708765270799_7658379294537159973_o---x----2048-1356x---.jpg)The production will feature original live music by Adam White, a local music director, composer, and percussionist.
+The production will feature original live music by Adam White, a local music director, composer, and percussionist.
 
 The show features local high school and college actors and will be will be collecting donations for Colorado-based LGBT youth charities.&nbsp; The production will feature original live music by Adam White, a local music director, composer, and percussionist.
