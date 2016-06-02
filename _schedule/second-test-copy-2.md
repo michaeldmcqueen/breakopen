@@ -4,7 +4,7 @@ description:
 date: 2016-10-14T18:00:00.000Z
 time: '6:00 pm'
 venue: 'Upstairs Art Gallery: Downtown Artery'
-artist_image_path: 'https://source.unsplash.com/category/people/300x300'
+artist_image_path: /12715877_648708765270799_7658379294537159973_o.jpg
 ---
 
 
