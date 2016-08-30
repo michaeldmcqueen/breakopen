@@ -6,13 +6,14 @@ main.wrap, main .wrap {
   margin: 0 auto;
   max-width: $container_width;
   @include breakpoint($tablet, $no-query: ".no-mq") {
-    margin: 1em auto;
+    margin: 1em auto 3em;
   }
 }
 .content-wrap { @include clearfix; }
 
 main {
   @include clearfix;
+  display: block;
 }
 
 section.content-wrapper {
@@ -80,7 +81,7 @@ section.content-wrapper {
 
 main.subpage {
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 0 auto 3em;
   background: #fff;
   padding: 2em 0;
   box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.24);
