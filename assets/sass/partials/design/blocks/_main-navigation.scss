@@ -1,5 +1,6 @@
 .main-nav {
   margin-bottom: 2em;
+  font-family: $heading-font-family;
   @include breakpoint($tablet, $no-query: '.no-mq') {
     margin-bottom: 0;
   }
