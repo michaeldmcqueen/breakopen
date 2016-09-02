@@ -2,7 +2,7 @@
 title: Break Open
 email: michaeldmcqueen@gmail.com
 description: 
-baseurl: "http://mentalhealthfestival.com" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://mentalhealthfestival.com" # the base hostname & protocol for your site
 timezone: America/Denver
 
