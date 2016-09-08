@@ -5,11 +5,9 @@ date: 2016-10-15T16:00:00.000Z
 time: '4:00 pm'
 venue: Downtown Artery
 space: Downstairs
-artist_image_path: /13653054_10153929054126185_6431519586717192181_o.jpg
+artist_image_path: /medical-infusions.jpg
 ---
 
 
-&nbsp;
-
-Taught by Ashley Noack&nbsp;
+Taught by Ashley Noack
 <br>Learn how to make your own mental first aid kit and walk away with herbal remedies
