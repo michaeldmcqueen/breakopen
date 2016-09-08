@@ -35,6 +35,9 @@ main.schedule .wrap {
     h6 {
       padding-top: .35em;
     }
+    .event-space {
+      margin-top: 1em;
+    }
   }
   .event-image {
     position: relative;
@@ -65,4 +68,12 @@ main.schedule .wrap {
     }
   }
 
+}
+
+.schedule-break {
+background: #ef4723;
+    padding: .75em 1.25em;
+    color: #fff;
+    font-weight: 700;
+    font-size: 1.5em;
 }
