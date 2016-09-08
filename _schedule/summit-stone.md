@@ -5,7 +5,7 @@ date: 2016-10-15T14:00:00.000Z
 time: '2:00 pm'
 venue: Downtown Artery
 space: Downstairs
-artist_image_path: /uploads/image001.jpg
+artist_image_path: /uploads/summit-stone.jpg
 ---
 
 
