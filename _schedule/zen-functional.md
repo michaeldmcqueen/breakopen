@@ -1,9 +1,13 @@
 ---
-title: Zen Functional
-description:
-date: 2016-10-15T13:00:00.000Z
-time: '1:00 pm'
+title: Zen Functional Wellness
+description: |-
+  Presentation By Crystal Melanson
+  Certified Natural Chef, Functional Diagnostic Nutrition Practitioner®
+date: 2016-10-15T17:00:00.000Z
+time: '5:00 pm'
 venue: Downtown Artery
 space: Downstairs
-artist_image_path:
+artist_image_path: /uploads/screen-shot-2016-09-08-at-1-43-12-pm.png
 ---
+
+
