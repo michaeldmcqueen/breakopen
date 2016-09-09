@@ -7,10 +7,34 @@ description: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
   “Maddox and the crew wear their hearts on their sleeve, leaving their songs
   dripping with emotion.”
 
   –Colorado Music Buzz
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -25,8 +49,8 @@ description: >-
   as Los Angeles and as far east as the Carolina Coast. 24,000 miles in a van and
   over 514 hours of drive time has earned the band performances with Skillet,
   Saliva, Gemini Syndrome, Lita Ford, and many more.
-date: 2016-10-14T21:00:00.000Z
-time: '9:00 pm'
+date: 2016-10-14T22:30:00.000Z
+time: '10:30 pm'
 venue: Downtown Artery
 space: Downstairs
 artist_image_path: /uploads/14125740-1125219120857048-6109722193447430388-o.jpg
