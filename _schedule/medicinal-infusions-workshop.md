@@ -1,5 +1,5 @@
 ---
-title: Managing Stress using Simple Herbs and Your Own Simple Practice
+title: Managing Stress using Herbs and Your Own Simple Practice
 description: "Learn how to make your own calming tea, herbal hydrasol, herbal infused oils with bath in our kitchen upstairs. \n\n**Limited to 15 people"
 date: 2016-10-15T16:00:00.000Z
 time: '4:00 pm'
