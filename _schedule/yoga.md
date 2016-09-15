@@ -1,7 +1,7 @@
 ---
 title: Yoga
-description:
-date: 2016-10-15T15:30:00.000Z
+description: Hosted by Cheri Hansen
+date: 2016-10-15T09:00:00.000Z
 time: '3:30 pm'
 venue: Downtown Artery
 space: Upstairs
