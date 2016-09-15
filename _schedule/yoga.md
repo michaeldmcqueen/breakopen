@@ -1,5 +1,5 @@
 ---
-title: Yoga
+title: Yoga and Simple Meditation
 description: Hosted by Cheri Hansen
 date: 2016-10-15T09:00:00.000Z
 time: '3:30 pm'
