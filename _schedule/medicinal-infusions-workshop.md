@@ -4,7 +4,7 @@ description: "Learn how to make your own calming tea, herbal hydrasol, herbal in
 date: 2016-10-15T16:00:00.000Z
 time: '4:00 pm'
 venue: Downtown Artery
-space: Downstairs
+space: Upstairs in the kitchen  ( Art Gallery)
 artist_image_path: /medical-infusions.jpg
 ---
 
