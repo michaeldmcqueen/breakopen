@@ -12,13 +12,49 @@ description: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
   Class runs from 9am-10:30am on Saturday, October 15th.
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
   The class is free.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -31,12 +67,24 @@ description: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
   Bring a mat and wear comfortable clothing.
 date: 2016-10-15T09:00:00.000Z
 time: '3:30 pm'
 venue: Downtown Artery
 space: Upstairs
-artist_image_path: /yoga_in_bali-1200x600.jpg
+artist_image_path: /uploads/yoga1-1-of-1.jpg
 ---
 
 
