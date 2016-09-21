@@ -33,7 +33,127 @@ description: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    Have difficulty relaxing?  Looking for more calm and tranquility?  Come learn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -61,11 +181,59 @@ description: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   http://fortcollinsbiofeedback.com/
-date: 2016-10-15T15:00:00.000Z
-time: '3:00 pm'
+date: 2016-10-15T14:00:00.000Z
+time: '2:00 pm'
 venue: Downtown Artery
-space: Downstairs
+space: Upstaits
 artist_image_path: /uploads/shutterstock-130218290-300x200.jpg
 ---
 
