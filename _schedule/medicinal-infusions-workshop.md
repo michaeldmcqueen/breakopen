@@ -1,6 +1,17 @@
 ---
-title: Managing Stress using Herbs and Your Own Simple Practice
-description: "Learn how to make your own calming tea and take samples home with you.  \n\n**Limited to 15 people"
+title: Herbal Infusions for Stress and Self-Care
+description: >-
+  Herbal Infusions for Stress and Self-Care
+
+  learn how to begin connecting with plants to support emotional well-being in
+  your daily life by meeting some helpful herbs and crafting personalized tea
+  blends.
+
+
+
+
+
+  **Limited to 15 people
 date: 2016-10-15T16:00:00.000Z
 time: '4:00 pm'
 venue: Downtown Artery
@@ -10,4 +21,6 @@ artist_image_path: /medical-infusions.jpg
 
 
 Taught by Ashley Noack
-<br>Learn how to make your own mental first aid kit and walk away with herbal remedies
+
+Herbal Infusions for Stress and Self-Care
+<br>learn how to begin connecting with plants to support emotional well-being in your daily life by meeting some helpful herbs and crafting personalized tea blends.
