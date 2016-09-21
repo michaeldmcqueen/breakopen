@@ -24,6 +24,54 @@ description: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   Class runs from 9am-10:30am on Saturday, October 15th.
 
 
@@ -42,7 +90,103 @@ description: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   The class is free.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -79,9 +223,57 @@ description: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   Bring a mat and wear comfortable clothing.
 date: 2016-10-15T09:00:00.000Z
-time: '3:30 pm'
+time: '9:00 AM'
 venue: Downtown Artery
 space: Upstairs
 artist_image_path: /uploads/yoga1-1-of-1.jpg
