@@ -1,9 +1,33 @@
 ---
 title: Stress Less
-description: 'Since 1989, the Alliance for Suicide Prevention of Larimer County (ASP) has provided suicide prevention educational programs and grief support services to youth and adults. Our mission is to prevent suicide in Larimer County by raising awareness, educating and training youth and adults about depression and the impact of suicide, and providing support to those who have been affected. In the past year we have reached over 4,900 middle school and high school students with our suicide prevention program, Raising Awareness of Personal Power.  We have also reached 490 adults with our Hope for Today suicide prevention program and over 100 people attended our Grief Support Groups for those who have lost someone to suicide.'
+description: >-
+  Stress Less
+
+
+
+
+
+
+
+   Have difficulty relaxing?  Looking for more calm and tranquility?  Come learn
+
+  ways to relax and enjoy a more balanced life.  You’ll experience relaxation and
+  stress-reduction techniques that you can easily incorporate into your
+  life.   (60 minutes) Taught by Jen Strating, Fort Collins Biofeedback.
+
+
+
+
+
+  http://fortcollinsbiofeedback.com/
 date: 2016-10-14T16:00:00.000Z
-time: '4:00 pm'
+time: '3:00 pm'
 venue: Downtown Artery
 space: Downstairs
-artist_image_path: /asp_logo.jpg
+artist_image_path: /uploads/shutterstock-130218290-300x200.jpg
 ---
+
+
+&nbsp;
+
+&nbsp;Have difficulty relaxing?&nbsp; Looking for more calm and tranquility?&nbsp; Come learn ways to relax and enjoy a more balanced life. &nbsp;You’ll experience relaxation and stress-reduction techniques that you can easily incorporate into your life. &nbsp; (60 minutes)
