@@ -11,6 +11,10 @@ description: >-
 
 
 
+
+
+
+
   **Limited to 15 people
 date: 2016-10-15T16:00:00.000Z
 time: '4:00 pm'
@@ -20,7 +24,4 @@ artist_image_path: /medical-infusions.jpg
 ---
 
 
-Taught by Ashley Noack
-
-Herbal Infusions for Stress and Self-Care
-<br>learn how to begin connecting with plants to support emotional well-being in your daily life by meeting some helpful herbs and crafting personalized tea blends.
+<br>Learn how to begin connecting with plants to support emotional well-being in your daily life by meeting some helpful herbs and crafting personalized tea blends. &nbsp;Taught by Ashley Noack&nbsp;
