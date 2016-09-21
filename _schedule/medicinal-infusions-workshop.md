@@ -1,6 +1,6 @@
 ---
 title: Managing Stress using Herbs and Your Own Simple Practice
-description: "Learn how to make your own calming tea and take them home with you. \n\n**Limited to 15 people"
+description: "Learn how to make your own calming tea and take samples home with you.  \n\n**Limited to 15 people"
 date: 2016-10-15T16:00:00.000Z
 time: '4:00 pm'
 venue: Downtown Artery
