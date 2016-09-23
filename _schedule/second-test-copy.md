@@ -6,8 +6,8 @@ time: '8:00 pm'
 venue: Downtown Artery
 space: Downstairs
 artist_image_path: /story slam (2).jpg
+detail_image_path: /story slam (2).jpg
 ---
-
 
 A Very Special Storyslam….  Stories of Great Change…. The Day That Changed My Life…..
 

@@ -1,0 +1,28 @@
+.projectdetail.subpage  {
+  .event-date-time {
+    padding: 1em 0;
+    h4 {
+      margin: 0;
+    }
+  }
+  .event-details-place {
+    padding: 0 0 1em;
+    h6 {
+      margin: 0;
+    }
+  }
+  .pagetitle {
+    color: #313131;
+    text-shadow: none;
+    &:before {
+      background: #ccc;
+      box-shadow: none;
+    }
+  }
+  img {
+        max-height: 600px;
+    display: block;
+    margin: 0 auto;
+  }
+
+}

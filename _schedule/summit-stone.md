@@ -6,6 +6,7 @@ time: '3:00 pm'
 venue: Downtown Artery
 space: Downstairs
 artist_image_path: /uploads/summit-stone.jpg
+detail_image_path: /uploads/summit-stone.jpg
 ---
 
 
