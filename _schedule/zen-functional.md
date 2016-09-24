@@ -13,3 +13,7 @@ artist_image_path: /uploads/screen-shot-2016-09-08-at-1-43-12-pm.png
 ---
 
 
+Presentation By Crystal Melanson
+<br>Certified Natural Chef, Functional Diagnostic Nutrition Practitioner&reg;
+
+We will be focusing on identifying the underlying causes of depression and healing naturally. There will be a small food demo and recipes &nbsp;available.
