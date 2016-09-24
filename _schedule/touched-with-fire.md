@@ -4,7 +4,7 @@ description: 'While staying at a psychiatric hospital, two manic-depressive poet
 date: 2016-10-15T13:30:00.000Z
 time: '1:30 pm'
 venue: Lyric Cinema Cafe
-space: Theater 1
+space:
 artist_image_path: /uploads/images.jpg
 detail_image_path: /uploads/images.jpg
 ---
