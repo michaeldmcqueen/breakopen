@@ -1,6 +1,6 @@
 ---
 title: Processing Trauma
-description: 'Processing Trauma: finding your way through Grief, Loss, Depression, PTSD & CTPSD - Led by Liz Gaylor'
+description: 'Processing Trauma: finding your way through Grief, Loss, Depression, PTSD & CPTSD - Led by Liz Gaylor'
 date: 2016-10-15 16:00:00
 time: '4:00 PM'
 venue: Downtown Artery
@@ -10,4 +10,4 @@ detail_image_path: /14572640_10211185562261430_779043895_o.jpg
 ---
 
 
-Processing Trauma: finding your way through Grief, Loss, Depression, PTSD & CTPSD - Led by Liz Gaylor
+Processing Trauma: finding your way through Grief, Loss, Depression, PTSD & CPTSD - Led by Liz Gaylor
