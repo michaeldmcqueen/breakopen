@@ -10,4 +10,4 @@ detail_image_path: /uploads/uchealth-logo-horizontal-color.png
 ---
 
 
-Processing Trauma: finding your way through Grief, Loss, Depression, PTSD & CTPSD - Led by Liz Gaylor
+UCHealth will incorporate &nbsp;therapies including art and pet therapy and a version of Mountain Crest's ropes course.
