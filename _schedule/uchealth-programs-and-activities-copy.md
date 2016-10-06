@@ -5,8 +5,8 @@ date: 2016-10-15 16:00:00
 time: '4:00 PM'
 venue: Downtown Artery
 space: Downstairs
-artist_image_path:
-detail_image_path: /uchealth_logo_horizontal_color.png
+artist_image_path: /uploads/uchealth-logo-horizontal-color.png
+detail_image_path: /uploads/uchealth-logo-horizontal-color.png
 ---
 
 
