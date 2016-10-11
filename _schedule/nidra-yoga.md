@@ -1,10 +1,13 @@
 ---
 title: Nidra Yoga
-description: 'Since 1989, the Alliance for Suicide Prevention of Larimer County (ASP) has provided suicide prevention educational programs and grief support services to youth and adults. Our mission is to prevent suicide in Larimer County by raising awareness, educating and training youth and adults about depression and the impact of suicide, and providing support to those who have been affected. In the past year we have reached over 4,900 middle school and high school students with our suicide prevention program, Raising Awareness of Personal Power.  We have also reached 490 adults with our Hope for Today suicide prevention program and over 100 people attended our Grief Support Groups for those who have lost someone to suicide.'
-date: 2016-10-14 16:00:00
-time: '4:00 pm'
+description: 'Yoga Nidra, or yogic sleep, is a practice in which you learn to put the body to sleep while maintaining full conscious awareness. In this way, one learns how to fully relax at will and navigate the subtle layers of the energy field, emotional body, and subconscious mind, and ultimately how to move beyond the mind to a point of deep restoration and stillness. From this space, one effortlessly restores health to all layers of their being, gains access their inner truth and wisdom, and can reprogram the way they think and interact with the world.'
+date: 2016-10-15 10:00:00
+time: '10:00 am'
 venue: Downtown Artery
-space: Downstairs
-artist_image_path: /asp_logo.jpg
-detail_image_path: /asp_logo.jpg
+space: Upstairs
+artist_image_path:
+detail_image_path:
 ---
+
+
+Yoga Nidra, or yogic sleep, is a practice in which you learn to put the body to sleep while maintaining full conscious awareness. In this way, one learns how to fully relax at will and navigate the subtle layers of the energy field, emotional body, and subconscious mind, and ultimately how to move beyond the mind to a point of deep restoration and stillness. From this space, one effortlessly restores health to all layers of their being, gains access their inner truth and wisdom, and can reprogram the way they think and interact with the world.
